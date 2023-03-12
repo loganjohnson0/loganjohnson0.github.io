@@ -3,9 +3,8 @@ title: "Logan Johnson"
 image: Logan.jpg
 resources: cv.pdf
 about:
+  id: my_content
   template: broadside
-  image-shape: rectangle
-  image-width: 20em
   links: 
     - text: LinkedIn
       href: "https://www.linkedin.com/in/logan-johnson-b041a4149/"
@@ -20,3 +19,16 @@ about:
     - text: CV
       href: "cv.pdf"
 ---
+::: {#my_content}
+
+## Bio
+
+I am a graduate student at Iowa State University.
+
+## Selected Projects
+
+### Papers
+
+**Review of postmortem protein oxidation.**
+
+
