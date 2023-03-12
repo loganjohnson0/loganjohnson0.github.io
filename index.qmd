@@ -19,11 +19,14 @@ about:
     - text: CV
       href: "cv.pdf"
 ---
-::: {#my_content}
+:::{#my_content}
 
 ## Bio
 
 I am a graduate student at Iowa State University.
+
+## Education
+
 
 ## Selected Projects
 
@@ -31,4 +34,4 @@ I am a graduate student at Iowa State University.
 
 **Review of postmortem protein oxidation.**
 
-
+:::
