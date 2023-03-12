@@ -3,8 +3,7 @@ title: "Logan Johnson"
 image: Logan.jpg
 resources: cv.pdf
 about:
-  id: my_content
-  template: broadside
+  template: trestles
   links: 
     - text: LinkedIn
       icon: linkedin
@@ -20,7 +19,8 @@ about:
     - text: CV
       href: "cv.pdf"
 ---
-:::{#my_content}
+
+::: {.column-page}
 
 ## Biography
 
@@ -34,4 +34,5 @@ I am a PhD student at Iowa State University in the Department of Animal Sciences
 **Characterizing the sarcoplasmic proteome of aged pork chops classified by purge loss.** <u>Johnson, L.G.</u>, C. Zhai, L.M. Reever, K.J. Prusa, M.N. Nair, E. Huff-Lonergan, and S.M. Lonergan. 2023. <em>Journal of Animal Science</em>. 101: 1-12.  [https://doi.org/10.1093/jas/skad046](https://doi.org/10.1093/jas/skad046)
 
 **Partial purification of peroxiredoxin-2 from porcine skeletal muscle.** <u>Johnson, L.G.</u>, E.M. Steadham, E. Huff-Lonergan, and S.M. Lonergan. 2021. <em>Meat and Muscle Biology</em>. 5(1): 1-9. [https://doi.org/10.22175/mmb.12408](https://doi.org/10.22175/mmb.12408)
+
 :::
