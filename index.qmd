@@ -1,12 +1,22 @@
 ---
-title: "Logan's Website"
+title: "Logan Johnson"
+image: Logan.jpg
+resources: cv.pdf
+about:
+  template: broadside
+  image-shape: rectangle
+  image-width: 20em
+  links: 
+    - text: LinkedIn
+      href: "https://www.linkedin.com/in/logan-johnson-b041a4149/"
+    - text: Twitter
+      icon: twitter
+    - text: GitHub
+      icon: github
+      href: "https://github.com/loganjohnson0"
+    - text: Email
+      icon: envelope
+      href: "mailto:logan01@iastate.edu"
+    - text: CV
+      href: "cv.pdf"
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-
-```
