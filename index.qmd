@@ -27,9 +27,9 @@ I am a PhD student at Iowa State University in the Department of Animal Sciences
 
 ## Peer-Reviewed Journal Articles
 
-**Review of postmortem protein oxidation in skeletal muscle and the role of the peroxiredoxin family of endogenous antioxidants.** Johnson, L.G., B.M. Patterson, S.M. Lonergan, and E. Huff-Lonergan. 2023. <em>Meat and Muscle Biology</em>. 6(3): 1-18. <https://doi.org/10.22175/mmb.14492>
+**Review of postmortem protein oxidation in skeletal muscle and the role of the peroxiredoxin family of endogenous antioxidants.** <br><u>Johnson, L.G.</u>, B.M. Patterson, S.M. Lonergan, and E. Huff-Lonergan. 2023. <em>Meat and Muscle Biology</em>. 6(3): 1-18.<br><https://doi.org/10.22175/mmb.14492>
 
-**Characterizing the sarcoplasmic proteome of aged pork chops classified by purge loss.** Johnson, L.G., C. Zhai, L.M. Reever, K.J. Prusa, M.N. Nair, E. Huff-Lonergan, and S.M. Lonergan. 2023. <em>Journal of Animal Science</em>. 101: 1-12. <https://doi.org/10.1093/jas/skad046>
+**Characterizing the sarcoplasmic proteome of aged pork chops classified by purge loss.** <br><u>Johnson, L.G.</u>, C. Zhai, L.M. Reever, K.J. Prusa, M.N. Nair, E. Huff-Lonergan, and S.M. Lonergan. 2023. <em>Journal of Animal Science</em>. 101: 1-12.<br><https://doi.org/10.1093/jas/skad046>
 
-**Partial purification of peroxiredoxin-2 from porcine skeletal muscle.** Johnson, L.G., E.M. Steadham, E. Huff-Lonergan, and S.M. Lonergan. 2021. <em>Meat and Muscle Biology</em>. 5(1): 1-9. <https://doi.org/10.22175/mmb.12408>
+**Partial purification of peroxiredoxin-2 from porcine skeletal muscle.** <br><u>Johnson, L.G.</u>, E.M. Steadham, E. Huff-Lonergan, and S.M. Lonergan. 2021. <em>Meat and Muscle Biology</em>. 5(1): 1-9. <br><https://doi.org/10.22175/mmb.12408>
 :::
