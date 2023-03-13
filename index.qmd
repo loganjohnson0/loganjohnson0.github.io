@@ -1,7 +1,6 @@
 ---
 title: "Logan Johnson"
 image: Logan.jpg
-resources: cv.pdf
 about:
   template: trestles
   links: 
@@ -10,29 +9,27 @@ about:
       href: "https://www.linkedin.com/in/logan-johnson-b041a4149/"
     - text: Twitter
       icon: twitter
+      href: "https://twitter.com/logan_johnson01"
     - text: GitHub
       icon: github
       href: "https://github.com/loganjohnson0"
     - text: Email
       icon: envelope
       href: "mailto:logan01@iastate.edu"
-    - text: CV
+    - text: Curriculum Vitae
       href: "cv.pdf"
 ---
 
-::: {.column-page}
-
+::: column-page
 ## Biography
 
-I am a PhD student at Iowa State University in the Department of Animal Sciences. I am passionate about understanding the fundamental biology and biochemistry associated with livestock growth and meat production. Data science has become another passion of mine. I am involved in a National Science Foundation (NSF) Research Traineeship Program at Iowa State University called [DataFEWSion](https://datafewsion.iastate.edu). Through this program, I meet weekly with a cohort of interdisciplinary PhD students from across various departments. We discuss and learn from each other about data-analytics skills at the nexus of Food, Energy, and Water Systems (FEWS). We also grow our professional and communication skills through our symposium with external stakeholders and through our Graduate Certificate course work on [Data-Drive Food, Energy, and Water Decision Making](https://datafewsion.iastate.edu/2468-2/). All together, I am applying the skills and knowledge I gain on data science and analytics to the animal science, livestock production, and meat quality research areas
+I am a PhD student at Iowa State University in the Department of Animal Sciences. I am passionate about understanding the fundamental biology and biochemistry associated with livestock growth and meat production. Data science has become another passion of mine. I am involved in a National Science Foundation (NSF) Research Traineeship Program at Iowa State University called [DataFEWSion](https://datafewsion.iastate.edu). Through this program, I meet weekly with a cohort of interdisciplinary PhD students from across various departments. We discuss and learn from each other about data-analytics skills at the nexus of Food, Energy, and Water Systems (FEWS). We also grow our professional and communication skills through our symposium with external stakeholders and through our Graduate Certificate course work on [Data-Drive Food, Energy, and Water Decision Making](https://datafewsion.iastate.edu/2468-2/). All together, I am applying the skills and knowledge I gain on data science and analytics to the animal science, livestock production, and meat quality research areas.
 
+## Peer-Reviewed Journal Articles
 
-### Peer-Reviewed Journal Articles
+**Review of postmortem protein oxidation in skeletal muscle and the role of the peroxiredoxin family of endogenous antioxidants.** Johnson, L.G., B.M. Patterson, S.M. Lonergan, and E. Huff-Lonergan. 2023. <em>Meat and Muscle Biology</em>. 6(3): 1-18. <https://doi.org/10.22175/mmb.14492>
 
-**Review of postmortem protein oxidation in skeletal muscle and the role of the peroxiredoxin family of endogenous antioxidants.** <u>Johnson, L.G.</u>, B.M. Patterson, S.M. Lonergan, and E. Huff-Lonergan. 2023. <em>Meat and Muscle Biology</em>. 6(3): 1-18. [https://doi.org/10.22175/mmb.14492](https://doi.org/10.22175/mmb.14492)
+**Characterizing the sarcoplasmic proteome of aged pork chops classified by purge loss.** Johnson, L.G., C. Zhai, L.M. Reever, K.J. Prusa, M.N. Nair, E. Huff-Lonergan, and S.M. Lonergan. 2023. <em>Journal of Animal Science</em>. 101: 1-12. <https://doi.org/10.1093/jas/skad046>
 
-**Characterizing the sarcoplasmic proteome of aged pork chops classified by purge loss.** <u>Johnson, L.G.</u>, C. Zhai, L.M. Reever, K.J. Prusa, M.N. Nair, E. Huff-Lonergan, and S.M. Lonergan. 2023. <em>Journal of Animal Science</em>. 101: 1-12.  [https://doi.org/10.1093/jas/skad046](https://doi.org/10.1093/jas/skad046)
-
-**Partial purification of peroxiredoxin-2 from porcine skeletal muscle.** <u>Johnson, L.G.</u>, E.M. Steadham, E. Huff-Lonergan, and S.M. Lonergan. 2021. <em>Meat and Muscle Biology</em>. 5(1): 1-9. [https://doi.org/10.22175/mmb.12408](https://doi.org/10.22175/mmb.12408)
-
+**Partial purification of peroxiredoxin-2 from porcine skeletal muscle.** Johnson, L.G., E.M. Steadham, E. Huff-Lonergan, and S.M. Lonergan. 2021. <em>Meat and Muscle Biology</em>. 5(1): 1-9. <https://doi.org/10.22175/mmb.12408>
 :::
