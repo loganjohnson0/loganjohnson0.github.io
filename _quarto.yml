@@ -11,7 +11,7 @@ website:
     - text: "Papers"
       href: papers.qmd
   page-footer:
-    left: "© Copyright 2023 Logan Johnson. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
+    left: "© Copyright 2024 Logan Johnson. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
 
 format:
    html:
