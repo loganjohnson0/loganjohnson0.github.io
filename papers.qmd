@@ -10,13 +10,13 @@ title: "My Published Papers"
 
 #### 2023
 
-**Johnson, L. G.**, C. Zhai, E. M. Steadham, L. M. Reever, K. J. Prusa, M. N. Nair, E. Huff-Lonergan, and S. M. Lonergan. 2023. Distinct myofibrillar sub-proteomic profiles are associated with the instrumental texture of aged pork loin. <em> Journal of Animal Science </em>. 101:skad327. <https://doi.org/10.1093/jas/skad327> &nbsp; [PDF](myo-jas-2023.pdf)
+**Johnson, L.G.**, C. Zhai, E.M. Steadham, L.M. Reever, K.J. Prusa, M.N. Nair, E. Huff-Lonergan, and S.M. Lonergan. 2023. Distinct myofibrillar sub-proteomic profiles are associated with the instrumental texture of aged pork loin. <em>Journal of Animal Science</em>. 101:skad327. <https://doi.org/10.1093/jas/skad327> &nbsp; [PDF](myo-jas-2023.pdf)
 
-Zhai, C., S.M. Lonergan, E.J. Huff-Lonergan, **L.G. Johnson**, K. Brown, J.E. Prenni, and M.N. Nair. Lipid peroxidation products influence calpain-1 functionality in vitro by covalent binding. 2023. <em> Journal of Agricultural and Food Chemistry</em>. 71:7836–7846. <br> <https://doi:10.1021/acs.jafc.3c01225> &nbsp; [PDF](calpain-1_2023.pdf)
+Zhai, C., S.M. Lonergan, E.J. Huff-Lonergan, **L.G. Johnson**, K. Brown, J.E. Prenni, and M.N. Nair. Lipid peroxidation products influence calpain-1 functionality in vitro by covalent binding. 2023. <em>Journal of Agricultural and Food Chemistry</em>. 71:7836–7846. <br> <https://doi.org/10.1021/acs.jafc.3c01225> &nbsp; [PDF](calpain-1_2023.pdf)
 
-**Johnson, L.G.**, B.M. Patterson, S.M. Lonergan, and E. Huff-Lonergan. Review of postmortem protein oxidation in skeletal muscle and the role of the peroxiredoxin family of endogenous antioxidants. 2023. <em> Meat and Muscle Biology </em>. 6(3): 1-18. <br> <https://doi.org/10.22175/mmb.14492> &nbsp; [PDF](Review-mmb-2023.pdf)
+**Johnson, L.G.**, B.M. Patterson, S.M. Lonergan, and E. Huff-Lonergan. Review of postmortem protein oxidation in skeletal muscle and the role of the peroxiredoxin family of endogenous antioxidants. 2023. <em>Meat and Muscle Biology</em>. 6(3): 1-18. <br> <https://doi.org/10.22175/mmb.14492> &nbsp; [PDF](Review-mmb-2023.pdf)
 
-**Johnson, L.G.**, C. Zhai, L.M. Reever, K.J. Prusa, M.N. Nair, E. Huff-Lonergan, and S.M. Lonergan. Characterizing the sarcoplasmic proteome of aged pork chops classified by purge loss. 2023. <em> Journal of Animal Science </em>. 101: 1-12.<br> <https://doi.org/10.1093/jas/skad046> &nbsp; [PDF](jas-2023.pdf)
+**Johnson, L.G.**, C. Zhai, L.M. Reever, K.J. Prusa, M.N. Nair, E. Huff-Lonergan, and S.M. Lonergan. Characterizing the sarcoplasmic proteome of aged pork chops classified by purge loss. 2023. <em>Journal of Animal Science</em>. 101: 1-12.<br> <https://doi.org/10.1093/jas/skad046> &nbsp; [PDF](jas-2023.pdf)
 
 #### 2021
 
