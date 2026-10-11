@@ -13,9 +13,12 @@ about:
     - text: GitHub
       icon: github
       href: "https://github.com/loganjohnson0"
+    - text: ORCID
+      icon: person-badge
+      href: "https://orcid.org/0000-0001-9773-5027"
     - text: Email
       icon: envelope
-      href: "mailto:logan01@iastate.edu"
+      href: "mailto:logan.johnson10@okstate.edu"
     - text: Curriculum Vitae
       href: "cv.pdf"
 ---
@@ -23,15 +26,7 @@ about:
 ::: column-page
 ## Biography
 
-I am a PhD student at Iowa State University in the Department of Animal Sciences. I am passionate about understanding the fundamental biology and biochemistry associated with livestock growth and meat production. Data science has become another passion of mine. I am involved in a National Science Foundation (NSF) Research Traineeship Program at Iowa State University called [DataFEWSion](https://datafewsion.iastate.edu). Through this program, I meet weekly with a cohort of interdisciplinary PhD students from across various departments. We discuss and learn from each other about data analysis and modeling skills at the nexus of Food, Energy, and Water Systems (FEWS). We also grow our professional and communication skills through our symposium with external stakeholders and through our Graduate Certificate course work on [Data-Drive Food, Energy, and Water Decision Making](https://datafewsion.iastate.edu/2468-2/). All together, I am applying the skills and knowledge I gain on data science and analytics to the animal science, livestock production, and meat quality research areas.
+I am an Assistant Professor of Food Science in the Department of Animal and Food Sciences at Oklahoma State University. I am passionate about understanding the fundamental biology and biochemistry associated with livestock growth and meat production, and I use mass spectrometry and other biochemical approaches to define the molecular features of fresh meat products. My goal is to translate these molecular data into interpretable results that help the livestock and meat industries improve production efficiency, consumer eating experience, and economic value. I earned my PhD and MS in Meat Science from Iowa State University, where I also completed a postdoctoral appointment, and my BS in Food Science from South Dakota State University. At OSU I teach courses in food chemistry, meat science, dairy processing, and graduate research communication, and I advise graduate and undergraduate students in the meat science program.
 
-## Peer-Reviewed Journal Articles
-
-**Distinct myofibrillar sub-proteomic profiles are associated with the instrumental texture of aged pork loin.**<br><u>Johnson, L.G.</u>, C. Zhai, E.M. Steadham, L.M. Reever, K.J. Prusa, M.N. Nair, E. Huff-Lonergan, and S.M. Lonergan. 2023. <em>Journal of Animal Science</em>. 101:skad327. <br><https://doi.org/10.1093/jas/skad327>
-
-**Review of postmortem protein oxidation in skeletal muscle and the role of the peroxiredoxin family of endogenous antioxidants.** <br><u>Johnson, L.G.</u>, B.M. Patterson, S.M. Lonergan, and E. Huff-Lonergan. 2023. <em>Meat and Muscle Biology</em>. 6(3): 1-18.<br><https://doi.org/10.22175/mmb.14492>
-
-**Characterizing the sarcoplasmic proteome of aged pork chops classified by purge loss.** <br><u>Johnson, L.G.</u>, C. Zhai, L.M. Reever, K.J. Prusa, M.N. Nair, E. Huff-Lonergan, and S.M. Lonergan. 2023. <em>Journal of Animal Science</em>. 101: 1-12.<br><https://doi.org/10.1093/jas/skad046>
-
-**Partial purification of peroxiredoxin-2 from porcine skeletal muscle.** <br><u>Johnson, L.G.</u>, E.M. Steadham, E. Huff-Lonergan, and S.M. Lonergan. 2021. <em>Meat and Muscle Biology</em>. 5(1): 1-9. <br><https://doi.org/10.22175/mmb.12408>
+See my [papers](papers.qmd) for a full list of publications, or my [CV](cv.pdf) for complete details on teaching, research, mentorship, and service.
 :::

@@ -1,33 +1,47 @@
 ---
-title: "My Published Papers"
+title: "Peer-Reviewed Journal Articles"
 ---
 
-### Click "[PDF]" to download the paper 
+### Click "[PDF]" to download the paper
+
+### In Review
+
+Niraula, A., C. Zhai, **L.G. Johnson**, S.M. Lonergan, E. Huff-Lonergan, J.M. Chaparro, K.J. Prusa, C. Zhu, J.E. Prenni, and M.N. Nair. Proteomic and metabolomic profiles link lightness and eating quality in aged pork with normal pH. <em>Journal of Animal Science</em>. Submitted for review.
+
+### 2026
+
+Harr, K.M., M.A. Scott, E.S.P. Santos, N.R.B. Cônsolo, **L. Johnson**, G.G. Mafi, M.M. Pfeiffer, and R. Ramanathan. 2026. A preliminary nontargeted lipidomics analysis reveals greater acylcarnitine in dark-cutting beef longissimus lumborum across visual severity levels. <em>Journal of Animal Science</em>. 104:skaf460. <br> <https://doi.org/10.1093/jas/skaf460> &nbsp; [PDF](papers/2026_JAS_dark-cutting-beef-lipidomics.pdf)
+
+### 2025
+
+Jess, C.E., **L.G. Johnson**, K.J. Prusa, S.M. Lonergan, and E.J. Huff-Lonergan. 2025. Fresh pork loin pH influences meat quality and the presence of desmin degradation products. <em>Meat and Muscle Biology</em>. 9:1–13. <br> <https://doi.org/10.22175/mmb.18426> &nbsp; [PDF](papers/2025_MMB_pork-loin-ph-desmin.pdf)
 
 ### 2024
 
-**Coming Soon!**
+**Johnson, L.G.**, C. Zhai, K.J. Prusa, M.N. Nair, J.E. Prenni, J.M. Chaparro, E. Huff-Lonergan, and S.M. Lonergan. 2024. Proteomic and metabolomic profiling of aged pork loin chops reveals molecular phenotypes linked to pork tenderness. <em>Journal of Animal Science</em>. 102:skae355. <br> <https://doi.org/10.1093/jas/skae355> &nbsp; [PDF](papers/2024_JAS_aged-pork-proteomics-metabolomics.pdf)
+
+**Johnson, L.G.**, C. Zhai, K. Brown, J.E. Prenni, M.N. Nair, E. Huff-Lonergan, and S.M. Lonergan. 2024. Secondary lipid oxidation products as modulators of calpain-2 functionality in vitro. <em>Journal of Agricultural and Food Chemistry</em>. 72:12229–12239. <br> <https://doi.org/10.1021/acs.jafc.4c00335> &nbsp; [PDF](papers/2024_JAFC_calpain-2-lipid-oxidation.pdf)
 
 ### 2023
 
-**Johnson, L.G.**, C. Zhai, E.M. Steadham, L.M. Reever, K.J. Prusa, M.N. Nair, E. Huff-Lonergan, and S.M. Lonergan. 2023. Distinct myofibrillar sub-proteomic profiles are associated with the instrumental texture of aged pork loin. <em>Journal of Animal Science</em>. 101:skad327. <https://doi.org/10.1093/jas/skad327> &nbsp; [PDF](myo-jas-2023.pdf)
+**Johnson, L.G.**, C. Zhai, E.M. Steadham, L.M. Reever, K.J. Prusa, M.N. Nair, E. Huff-Lonergan, and S.M. Lonergan. 2023. Distinct myofibrillar sub-proteomic profiles are associated with the instrumental texture of aged pork loin. <em>Journal of Animal Science</em>. 101:skad327. <https://doi.org/10.1093/jas/skad327> &nbsp; [PDF](papers/2023_JAS_myofibrillar-texture.pdf)
 
-Zhai, C., S.M. Lonergan, E.J. Huff-Lonergan, **L.G. Johnson**, K. Brown, J.E. Prenni, and M.N. Nair. Lipid peroxidation products influence calpain-1 functionality in vitro by covalent binding. 2023. <em>Journal of Agricultural and Food Chemistry</em>. 71:7836–7846. <br> <https://doi.org/10.1021/acs.jafc.3c01225> &nbsp; [PDF](calpain-1_2023.pdf)
+Zhai, C., S.M. Lonergan, E.J. Huff-Lonergan, **L.G. Johnson**, K. Brown, J.E. Prenni, and M.N. Nair. 2023. Lipid peroxidation products influence calpain-1 functionality in vitro by covalent binding. <em>Journal of Agricultural and Food Chemistry</em>. 71:7836–7846. <br> <https://doi.org/10.1021/acs.jafc.3c01225> &nbsp; [PDF](papers/2023_JAFC_calpain-1-lipid-peroxidation.pdf)
 
-**Johnson, L.G.**, B.M. Patterson, S.M. Lonergan, and E. Huff-Lonergan. Review of postmortem protein oxidation in skeletal muscle and the role of the peroxiredoxin family of endogenous antioxidants. 2023. <em>Meat and Muscle Biology</em>. 6(3): 1-18. <br> <https://doi.org/10.22175/mmb.14492> &nbsp; [PDF](Review-mmb-2023.pdf)
+**Johnson, L.G.**, B.M. Patterson, E.J. Huff-Lonergan, and S.M. Lonergan. 2023. Review of postmortem protein oxidation in skeletal muscle and the role of the peroxiredoxin family of endogenous antioxidants. <em>Meat and Muscle Biology</em>. 6:1–18. <br> <https://doi.org/10.22175/mmb.14492> &nbsp; [PDF](papers/2023_MMB_peroxiredoxin-review.pdf)
 
-**Johnson, L.G.**, C. Zhai, L.M. Reever, K.J. Prusa, M.N. Nair, E. Huff-Lonergan, and S.M. Lonergan. Characterizing the sarcoplasmic proteome of aged pork chops classified by purge loss. 2023. <em>Journal of Animal Science</em>. 101: 1-12.<br> <https://doi.org/10.1093/jas/skad046> &nbsp; [PDF](jas-2023.pdf)
+**Johnson, L.G.**, C. Zhai, L.M. Reever, K.J. Prusa, M.N. Nair, E. Huff-Lonergan, and S.M. Lonergan. 2023. Characterizing the sarcoplasmic proteome of aged pork chops classified by purge loss. <em>Journal of Animal Science</em>. 101:1–12.<br> <https://doi.org/10.1093/jas/skad046> &nbsp; [PDF](papers/2023_JAS_sarcoplasmic-proteome-purge.pdf)
 
 ### 2021
 
-Patterson, B.M., A.C. Outhouse, E.T. Helm, **L. Johnson**, E.M. Steadham, J.C.M. Dekkers, K.J.Schwartz, N.K. Gabler, S.M. Lonergan, and E. Huff-Lonergan. Novel observations of peroxiredoxin-2 profile and protein oxidation in skeletal muscle from pigs of differing residual feed intake and health status. 2021. <em>Meat and Muscle Biology</em>. 5(1): 1-15.<br> <https://doi.org/10.22175/mmb.12241> &nbsp; [PDF](Novel-mmb-2021.pdf)
+Patterson, B.M., A.C. Outhouse, E.T. Helm, **L. Johnson**, E.M. Steadham, J.C.M. Dekkers, K.J. Schwartz, N.K. Gabler, S.M. Lonergan, and E. Huff-Lonergan. 2021. Novel observations of peroxiredoxin-2 profile and protein oxidation in skeletal muscle from pigs of differing residual feed intake and health status. <em>Meat and Muscle Biology</em>. 5:1–15.<br> <https://doi.org/10.22175/mmb.12241> &nbsp; [PDF](papers/2021_MMB_peroxiredoxin-2-rfi-health.pdf)
 
-**Johnson, L.G.**, E.M. Steadham, E. Huff-Lonergan, and S.M. Lonergan. Partial purification of peroxiredoxin-2 from porcine skeletal muscle. 2021. <em>Meat and Muscle Biology</em>. 5(1): 1-9.<br> <https://doi.org/10.22175/mmb.12408> &nbsp; [PDF](Purification-mmb-2021.pdf)
+**Johnson, L.G.**, E.M. Steadham, E. Huff-Lonergan, and S.M. Lonergan. 2021. Partial purification of peroxiredoxin-2 from porcine skeletal muscle. <em>Meat and Muscle Biology</em>. 5:1–9.<br> <https://doi.org/10.22175/mmb.12408> &nbsp; [PDF](papers/2021_MMB_peroxiredoxin-2-purification.pdf)
 
 ### 2020
 
-Schulte, M.D., **L.G. Johnson**, E.A. Zuber, E.M. Steadham, D.A. King, E. Huff-Lonergan, S.M. Lonergan. 2020. Investigation of the sarcoplasmic proteome contribution to the development of pork loin tenderness. <em>Meat and Muscle Biology</em> 4(1): 8, 1-14. <br><https://doi.org/10.22175/mmb.9566> &nbsp; [PDF](Sarco-mmb-2020.pdf)
+Schulte, M.D., **L.G. Johnson**, E.A. Zuber, E.M. Steadham, D.A. King, E. Huff-Lonergan, and S.M. Lonergan. 2020. Investigation of the sarcoplasmic proteome contribution to the development of pork loin tenderness. <em>Meat and Muscle Biology</em>. 4:1–14. <br> <https://doi.org/10.22175/mmb.9566> &nbsp; [PDF](papers/2020_MMB_sarcoplasmic-proteome-tenderness.pdf)
 
 ### 2019
 
-Schulte, M.D., **L.G. Johnson**, E.A. Zuber, E.M. Steadham, D.A. King, E. Huff-Lonergan, S.M. Lonergan. 2020. Investigation of the sarcoplasmic proteome contribution to the development of pork loin tenderness. <em>Meat and Muscle Biology</em> 4(1): 8, 1-14.<br> <https://doi.org/10.22175/mmb.9566> &nbsp; [PDF](Aging-mmb-2019.pdf)
+Schulte, M.D., **L.G. Johnson**, E.A. Zuber, B.M. Patterson, A.C. Outhouse, C.A. Fedler, E.M. Steadham, D.A. King, K.J. Prusa, E. Huff-Lonergan, and S.M. Lonergan. 2019. Influence of postmortem aging and post-aging freezing on pork loin quality attributes. <em>Meat and Muscle Biology</em>. 3:313–323. <br> <https://doi.org/10.22175/mmb2019.05.0015> &nbsp; [PDF](papers/2019_MMB_aging-freezing-pork-loin.pdf)
